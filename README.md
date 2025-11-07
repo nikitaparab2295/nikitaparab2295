@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h4 align="center">Senior Software Developer | Full-Stack & Cloud Enthusiast</h4>
-<p align="center"><em>"Be the change that you want to see in the world."</em></p>
+<p align="center"><em>"Be the change that you want to see in the world"</em></p>
 
 ---
 
