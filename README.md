@@ -1,99 +1,156 @@
-<h1 align="center">Hi 👋, I'm Nikita</h1>  
-<h4 align="right">- 🧑‍💻 Senior Software Developer | Full-Stack & Cloud Enthusiast</h4>  
+<h1 align="center">Hi 👋, I'm Nikita</h1>
+<h4 align="center">Senior Software Developer | Full-Stack & Cloud Enthusiast</h4>
+<p align="center"><em>"Be the change that you want to see in the world."</em></p>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-* 🚀 6+ years of experience in Full-Stack Development & Cloud Solutions
-* ☁️ Skilled in building scalable web apps and microservices
-* 🧠 Experienced with Node.js, React, Angular, and cloud platforms (AWS & GCP)
-* 📦 Delivered 25+ production-grade projects with Web & Cloud integrations
-* 🌍 Currently based in Berlin, Germany
-
----
-
-## 💻 Languages & Frameworks
-
-<p align="left">  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/MERN-499C76?style=for-the-badge&logo=mongodb&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/MEAN-DD0031?style=for-the-badge&logo=angularjs&logoColor=white"/>  
-</p>  
+* 🚀 7+ years of experience designing and building large-scale enterprise applications in the financial domain
+* 🏗️ Specialized in resilient, high-performance systems using Java frameworks and microservices
+* ☁️ Experienced in cloud environments, DevOps practices, and agile methodologies
+* 🧩 Focused on clean architecture, reusable components, and process optimization
+* 🌍 Based in Berlin, Germany
 
 ---
 
-## 🛠️ Databases & ORMs
+## 💻 Skills & Proficiency
 
-<p align="left">  
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Sequelize-3C76A1?style=for-the-badge&logo=sequelize&logoColor=white"/>  
-</p>  
+### Languages & Frameworks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### Databases & ORMs
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sequelize-3C76A1?style=for-the-badge&logo=sequelize&logoColor=white"/>
+</p>
+
+### Cloud & DevOps
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### APIs & Communication
+
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_API-4A90E2?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+</p>
 
 ---
 
-## 🔗 APIs & Communication
+## 🏢 Work Experience
 
-<p align="left">  
-  <img src="https://img.shields.io/badge/REST_API-4A90E2?style=for-the-badge&logo=swagger&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>  
-</p>  
+### Morgan Stanley — Senior Software Developer
 
----
+*Berlin, Germany | Sep 2018 – Present*
 
-## ☁️ Cloud Platforms & DevOps
+* Lead developer for Corporate Actions processing in Asset Servicing
+* Built highly available, fault-tolerant systems for event processing and real-time notifications
+* Contributed to Trade Confirmations platform for high-volume real-time confirmations
+* Automated repetitive business-critical processes reducing manual effort
+* Mentored junior developers and collaborated across regions using Agile
 
-<p align="left">  
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>  
-</p>  
+**Technologies:** Java, Spring, Spring Boot, Microservices, Multithreading, Kafka, Angular, REST, SOAP, HTML, CSS, PHP, Design Patterns, Jenkins, Git, Linux, Shell Scripting, Postman, Automation
 
 ---
 
-## 🧰 Tools & Collaboration
+### Accenture Solutions Private Limited — Application Development Analyst
 
-<p align="left">  
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Agile-61DAFB?style=for-the-badge&logo=scrumalliance&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/Scrum-1E90FF?style=for-the-badge&logo=trello&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Kanban-3178C6?style=for-the-badge&logo=trello&logoColor=white"/>  
-</p>  
+*Nov 2016 – Sep 2018*
+
+* Developed Portfolio Reconciliation System and Credit Risk Calculator
+* Built ETL pipelines for trade and position data consolidation
+* Engineered optimized database schemas for risk analysis
+* Integrated reusable backend components to enhance scalability
+
+**Technologies:** Java, Spring, Multithreading, ETL, MySQL, Git, JIRA, Jenkins, Agile/Scrum
 
 ---
 
-### 📬 How to Reach Me
+## 🚀 Notable Projects
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/nikita-parab)
-* 🌐 [Portfolio](https://nikita-parab.dev)
-* 📧 Email: [nikita.parab@example.com](mailto:nikita.parab@example.com)
-* 🧑‍💻 GitHub: [github.com/nikitaparab](https://github.com/nikitaparab)
+* **Corporate Actions Processing & Notifications:** Automated entitlement calculations and client notifications, reducing manual intervention.
+* **Payment Automation:** Integrated SWIFT payment systems for seamless automation and error reduction.
+* **Trade Confirmations:** High-throughput platform for real-time confirmations across multiple asset classes.
+* **Credit Risk Calculator:** Portfolio-level risk calculator with automated ETL pipelines for proactive risk management.
 
-<p align="center">  
-  <a href="https://www.linkedin.com/in/nikita-parab" target="_blank">  
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white">  
-  </a>  
-  <a href="mailto:nikita.parab@example.com" target="_blank">  
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge">  
-  </a>  
-  <a href="https://nikita-parab.dev" target="_blank">  
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white">  
-  </a>  
-</p>  
+---
+
+## 🎓 Education
+
+**University of Mumbai** — Bachelor of Engineering, Computer Science & IT
+*June 2012 – June 2016 | Grade: 9.12/10*
+
+---
+
+## 🏅 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-F25222?style=for-the-badge&logo=microsoft&logoColor=white"/> 2024 — Azure Fundamentals  
+  <img src="https://img.shields.io/badge/LinkedIn_Kafka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 2024 — Apache Kafka  
+  <img src="https://img.shields.io/badge/NSE-FC0D1B?style=for-the-badge&logoColor=white"/> 2018 — Financial Markets Certification  
+  <img src="https://img.shields.io/badge/Goethe-Institut-007396?style=for-the-badge&logoColor=white"/> 2025 — Goethe-Zertifikat A2  
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 2025 — GenAI & Prompt Engineering  
+</p>
+
+---
+
+## 🌐 Languages
+
+* English — Native/Bilingual
+* Hindi — Native/Bilingual
+* German — Elementary
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitaparab2295&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitaparab2295&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaparab2295&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikitaparab/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white">
+  </a>
+  <a href="mailto:nikita22.parab@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://nikita-parab.dev" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white">
+  </a>
+  <a href="https://github.com/nikitaparab2295" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
