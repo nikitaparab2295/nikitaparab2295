@@ -108,15 +108,26 @@
 
 ---
 
-## 🏅 Certifications
+### 🏆 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-F25222?style=for-the-badge&logo=microsoft&logoColor=white"/> 2024 — Azure Fundamentals  
-  <img src="https://img.shields.io/badge/LinkedIn_Kafka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 2024 — Apache Kafka  
-  <img src="https://img.shields.io/badge/NSE-FC0D1B?style=for-the-badge&logoColor=white"/> 2018 — Financial Markets Certification  
-  <img src="https://img.shields.io/badge/Goethe-Institut-007396?style=for-the-badge&logoColor=white"/> 2025 — Goethe-Zertifikat A2  
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 2025 — GenAI & Prompt Engineering  
+  <a href="https://www.microsoft.com/en-us/learning/certification-overview" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Microsoft_Certified_Badge.png" height="100" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/learning/certifications/apache-kafka" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/LinkedIn_Learning_logo.svg" height="100" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.nseindia.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/National_Stock_Exchange_of_India_logo.svg" height="100" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.goethe.de/en/spr/kup/prf/gia.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Goethe-Institut_Logo.svg" height="100" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/training/learn-about/ai-ml-genai/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="100" />
+  </a>
 </p>
+
 
 ---
 
