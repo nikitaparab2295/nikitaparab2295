@@ -58,7 +58,7 @@
 
 ### Morgan Stanley — Senior Software Developer
 
-*Berlin, Germany | Sep 2018 – Present*
+*Mumbai, India | Sep 2018 – Present*
 
 * Lead developer for Corporate Actions processing in Asset Servicing
 * Built highly available, fault-tolerant systems for event processing and real-time notifications
@@ -66,7 +66,7 @@
 * Automated repetitive business-critical processes reducing manual effort
 * Mentored junior developers and collaborated across regions using Agile
 
-**Technologies:** Java, Spring, Spring Boot, Microservices, Multithreading, Kafka, Angular, REST, SOAP, HTML, CSS, PHP, Design Patterns, Jenkins, Git, Linux, Shell Scripting, Postman, Automation
+**Technologies:** Java, Spring, Spring Boot, Microservices, Multithreading, Kafka, Angular, REST, SOAP, HTML, CSS, PHP, Design Patterns, Docker, Kubernetes, Jenkins, Git, Linux, Shell Scripting, Postman, Automation
 
 ---
 
@@ -94,8 +94,14 @@
 
 ## 🎓 Education
 
-**University of Mumbai** — Bachelor of Engineering, Computer Science & IT
+**University of Mumbai** - Bachelor of Engineering, Computer Science
 *June 2012 – June 2016 | Grade: 9.12/10*
+
+**Maharashtra State Board** - Higher Secondary Education (HSC), Science
+*June 2010 – June 2012 | Grade: PCM 93%*
+
+**Maharashtra State Board** - Secondary Education (SSC)
+*June 2001 – June 2010 | Grade: 95.82%*
 
 ---
 
