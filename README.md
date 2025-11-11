@@ -58,7 +58,7 @@
 
 ### Morgan Stanley — Senior Software Developer
 
-*Mumbai, India | Sep 2018 – Present*
+*Sep 2018 – Present*
 
 * Lead developer for Corporate Actions processing in Asset Servicing
 * Built highly available, fault-tolerant systems for event processing and real-time notifications
