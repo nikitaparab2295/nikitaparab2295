@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-* 🚀 7+ years of experience designing and building large-scale enterprise applications in the financial domain
+* 🚀 9+ years of experience designing and building large-scale enterprise applications in the financial domain
 * 🏗️ Specialized in resilient, high-performance systems using Java frameworks and microservices
 * ☁️ Experienced in cloud environments, DevOps practices, and agile methodologies
 * 🧩 Focused on clean architecture, reusable components, and process optimization
