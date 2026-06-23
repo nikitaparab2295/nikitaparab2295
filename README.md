@@ -10,7 +10,7 @@
 * 🏗️ Specialized in resilient, high-performance systems using Java frameworks and microservices
 * ☁️ Experienced in cloud environments, DevOps practices, and agile methodologies
 * 🧩 Focused on clean architecture, reusable components, and process optimization
-* 🌍 Based in Berlin, Germany
+* 🌍 Based in Dubai, UAE
 
 ---
 
