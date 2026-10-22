@@ -155,7 +155,7 @@
   <a href="mailto:nikita22.parab@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://nikita-parab.dev" target="_blank">
+  <a href="https://nikita-parab.vercel.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white">
   </a>
   <a href="https://github.com/nikitaparab2295" target="_blank">
