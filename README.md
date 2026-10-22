@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-* 🚀 9+ years of experience designing and building large-scale enterprise applications in the financial domain
+* 🚀 10+ years of experience designing and building large-scale enterprise applications in the financial domain
 * 🏗️ Specialized in resilient, high-performance systems using Java frameworks and microservices
 * ☁️ Experienced in cloud environments, DevOps practices, and agile methodologies
 * 🧩 Focused on clean architecture, reusable components, and process optimization
@@ -58,7 +58,7 @@
 
 ### Morgan Stanley — Senior Software Developer
 
-*Sep 2018 – Present*
+*Sep 2018 – Oct 2026*
 
 * Lead developer for Corporate Actions processing in Asset Servicing
 * Built highly available, fault-tolerant systems for event processing and real-time notifications
